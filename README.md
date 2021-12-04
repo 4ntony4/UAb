@@ -9,7 +9,7 @@ List and links of projects made under the Computer Science and Engineering Bache
 | 3 | Object-Oriented Programming | |
 | 4 | Data Structures and Algorithms | |
 | 4 | Introduction to Artificial Intelligence | |
-| 4 | Programming Languages | |
+| 4 | Programming Languages | [Patient Health Risk](https://github.com/4ntony4/UAb_patientHealthRisk) |
 | 4 | Software Development Lab | |
 | 5 | Computer and Network Security | [Ciphers](https://github.com/4ntony4/UAb_ciphers) |
 | 5 | Computer Graphics | [Raster Display Simulation](https://github.com/4ntony4/UAb_rasterDisplaySimulation) |
