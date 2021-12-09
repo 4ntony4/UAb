@@ -4,7 +4,7 @@ List and links of projects made under the Computer Science and Engineering Bache
 | Curricular Unit | Projects |
 | --------------- | :------: |
 | Introduction to Programming | [Little Domino Puzzle](https://github.com/4ntony4/UAb_littleDominoPuzzle) <a href="http://www.open-std.org/jtc1/sc22/wg14/"><img src="img/logos/c/c.svg" alt="C" width="25"></a> <br> [Game of Words](https://github.com/4ntony4/UAb_gameOfWords) <a href="http://www.open-std.org/jtc1/sc22/wg14/"><img src="img/logos/c/c.svg" alt="C" width="25"></a> |
-| Programming Lab | [Student Enrollment Management](https://github.com/4ntony4/UAb_studentEnrollmentManagement) <a href="http://www.open-std.org/jtc1/sc22/wg14/"><img src="img/logos/c/c.svg" alt="C" width="25"></a> |
+| Programming Lab | [Student Enrollment Management](https://github.com/4ntony4/UAb_studentEnrollmentManagement) <a href="http://www.open-std.org/jtc1/sc22/wg14/"><img src="img/logos/c/c.svg" alt="C" width="25"></a> <br> [Rectangles' World](https://github.com/4ntony4/UAb_rectanglesWorld) <a href="http://www.open-std.org/jtc1/sc22/wg14/"><img src="img/logos/c/c.svg" alt="C" width="25"></a>|
 | Operating Systems | <a href="http://www.open-std.org/jtc1/sc22/wg14/"><img src="img/logos/c/c.svg" alt="C" width="25"></a> |
 | Object-Oriented Programming | <a href="https://www.cplusplus.com/"><img src="img/logos/cpp/cpp.svg" alt="C++" width="25"></a> |
 | Data Structures and Algorithms | <a href="https://www.cplusplus.com/"><img src="img/logos/cpp/cpp.svg" alt="C++" width="25"></a> |
