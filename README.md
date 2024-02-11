@@ -1,5 +1,5 @@
 # UAb
-List and links of projects made under the Computer Science and Engineering Bachelor Program of Universidade Aberta, Portugal.
+List and links of some projects made under the Computer Science and Engineering Bachelor Program of Universidade Aberta, Portugal.
 
 | Curricular Unit | Projects |
 | --------------- | :------: |
